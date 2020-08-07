@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+I'm Kyle Willett, erstwhile astrophysicist and current data scientist. This is my academic/personal GitHub profile. 
+
 <!--
 **willettk/willettk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
